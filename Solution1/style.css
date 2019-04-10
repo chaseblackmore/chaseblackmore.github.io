@@ -1,0 +1,39 @@
+#links{
+	float:left;
+	background-color:lightgray;
+	height:1000px;
+	margin:20px;
+	padding:10px;
+	text-align:center;
+	width:120px;
+}
+h1{
+	text-align:center;
+
+
+}
+body{
+	background-color:lightblue;
+}
+#projectspage{
+	float:left;
+	margin:20px;
+
+}
+#aboutme{
+	
+	margin:20px;
+
+}
+#skillspage{
+	float:left;
+	margin:50px;
+	padding:10px;
+
+}
+
+#homepage{
+float:left;
+	margin:20px;
+
+}
