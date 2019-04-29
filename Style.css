@@ -1,7 +1,7 @@
 #links {
-    float: left;
-    background-color: moccasin;
-    height: 300px;
+    float:left;
+    background-color: white;
+    height: 180px;
     margin: auto;
     padding: 10px;
     text-align: center;
@@ -11,16 +11,22 @@
     text-decoration:none;
     font-size:20px;
     
+    
 }
 #links:hover{
-    background-color:white;
+    background-color:lightblue;
+}
+#ou{
+   text-align:right;
 }
 
 h1 {
     text-align: center;
-    color:white;
+    color:antiquewhite;
     font-weight:bold;
     text-decoration:underline;
+    
+    
     
     
 }
@@ -34,7 +40,7 @@ h1 {
 }
 
 body {
-    background-color: crimson;
+    background-color: darkred;
 }
 
 #projectspage {
