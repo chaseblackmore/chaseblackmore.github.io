@@ -9,13 +9,19 @@
     text-align:center;
     border:double solid;
     text-decoration:none;
+    font-size:20px;
+    
 }
-
+#links:hover{
+    background-color:white;
+}
 
 h1 {
     text-align: center;
     color:white;
     font-weight:bold;
+    text-decoration:underline;
+    
     
 }
 #pic1{
@@ -41,7 +47,7 @@ body {
     text-align: center;
     padding: 10px;
 }
-#project {
+#projectpage {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -50,6 +56,7 @@ body {
     font-size: 25px;
     text-align: center;
     padding: 10px;
+    width:50%;
 }
 
 #aboutme {
@@ -65,8 +72,11 @@ body {
     width:60%;
    
 }
+#aboutme:hover{
+    background-color:skyblue;
+}
 
-#skillpage {
+#skillpagecol1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -76,16 +86,32 @@ body {
     text-align: center;
     padding: 10px;
     width:50%;
+} 
+#skillpagecol1:hover{
+    background-color:skyblue;
 }
+li{
+    text-align:left;
+    
+}
+
+
+
 
 #homepage {
     display:block;
     margin-left:auto;
     margin-right:auto;
     background-color:white;
+    border:3px solid black;
+  
     color:black;
     font-size:25px;
     text-align:center;
     padding:10px;
+    width: 50%;
 
+}
+#homepage:hover{
+    background-color:skyblue;
 }
